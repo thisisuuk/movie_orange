@@ -1,5 +1,4 @@
 # movie_orange
-ㅋㅋㅋㅋㅋㅋ
 1. 영화 리뷰 수집
 2. 수집 된 영화 리뷰 MongoDB에 저장
 3. MongoDB에 저장 된 리뷰 가져오기
